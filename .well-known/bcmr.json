@@ -1,0 +1,106 @@
+{
+  "$schema": "https://cashtokens.org/bcmr-v2.schema.json",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "latestRevision": "2024-01-28T01:53:55.597Z",
+  "registryIdentity": {
+    "name": "bcmr for Holy.Art",
+    "description": "self-published bcmr for Holy.Art"
+  },
+  "identities": {
+    "1492f890b9ef4025de568cf53144756b88ca5fff6a9a693bbd4a5f509ee7b376": {
+      "2024-01-28T01:53:55.597Z": {
+        "name": "Holy.Art",
+        "description": "Holy Art hand drawn by Britney - Raising funds for charity and spreading hope. 50% sales go to charity 8% Royalty paid to artist on TapSwap sales",
+        "token": {
+          "category": "1492f890b9ef4025de568cf53144756b88ca5fff6a9a693bbd4a5f509ee7b376",
+          "symbol": "HART",
+          "nfts": {
+            "description": "",
+            "parse": {
+              "types": {
+                "01": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/1."
+                  }
+                },
+                "02": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/2."
+                  }
+                },
+                "03": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/3."
+                  }
+                },
+                "04": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/4."
+                  }
+                },
+                "05": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/5."
+                  }
+                },
+                "06": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/6."
+                  }
+                },
+                "07": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/7."
+                  }
+                },
+                "08": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/8."
+                  }
+                },
+                "09": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/9."
+                  }
+                },
+                "0a": {
+                  "name": "Protection by Faith#1,Holy Cross#2,Eternal Offering#3,Gift of Family#4,Holy Badge of Faith#5,Never Give Up#6,Reach#7,Trust in the Lord#8,Sacrifice#9,Seek Strength#10",
+                  "description": "",
+                  "uris": {
+                    "icon": "undefined/10."
+                  }
+                }
+              }
+            }
+          }
+        },
+        "uris": {
+          "icon": "https://bafkreihgbmhkx4elqeppoezayyi3o73mu3ubx5o6a5l22h3y42jfb2r52a.ipfs.nftstorage.link",
+          "web": ""
+        }
+      }
+    }
+  }
+}
